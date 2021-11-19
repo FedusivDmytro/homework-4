@@ -1,0 +1,39 @@
+footer{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(18, 17, 22);
+    height: 420px;   
+}
+address{
+    padding-top: 70px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+h3{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    margin: 15px;
+}
+span{
+    color:rgb(0, 199, 252);
+}
+hr{
+    width: 230px;
+}
+ul{
+    padding: 0px;
+}
+.logo{
+    padding: 120px 0px 20px 0px;
+}
